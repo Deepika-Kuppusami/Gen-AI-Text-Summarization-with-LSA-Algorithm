@@ -42,7 +42,7 @@ Step 2:
   for sentence in summary:
       print(sentence)
 
-Output:
+#Output:
 
   It is the intricate web of ecosystems, biodiversity, and natural processes that sustain life on
   Earth.
