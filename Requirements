@@ -1,0 +1,4 @@
+# in colab we install this libraries like
+!pip install PyPDF2 sumy
+!pip install PyPDF2
+!pip install nltk
